@@ -1,31 +1,27 @@
 # Hey, I'm Marko 👋
 
-**AI & Automation Engineer** | Master of Software Engineering (in progress, ETF – University of Belgrade)
+**AI & Automation Engineer** · Master of Software Engineering in progress at ETF – University of Belgrade
 
-I build workflow automation and LLM-powered systems for marketing agencies and enterprise clients — the kind that quietly replace hours of manual work every week. Day to day I live in **n8n, Python, and LLM APIs**, wiring together CRMs, billing systems, and outreach tools into pipelines that actually hold up in production.
+I build workflow automation and LLM-powered systems for marketing agencies and enterprise clients — the kind that quietly replace hours of manual work every week. Day to day I live in **n8n, Python, and LLM APIs**, wiring together CRMs, billing systems, and outreach tools into pipelines that hold up in production. Alongside client work, I'm building **production-grade AI engineering projects** (RAG, LangChain, LlamaIndex) to back up my LLM application work with code you can read and run.
 
-Alongside client work, I'm building **production-grade AI engineering projects** (RAG systems, agentic workflows with LangChain & LlamaIndex) to back up my LLM application work with code you can read and run.
+### 📌 Featured work
 
----
+- **[Lead Outreach & Research System](https://github.com/marequest/lead-outreach-research-system)** — 6-stage Make.com pipeline with GPT-4 in 3 roles and Slack human-in-the-loop. Replaced 2 FTEs of manual outbound.
+- **[CSM Email Ticketing](https://github.com/marequest/csm-email-ticketing)** — n8n inbox-to-tickets system with Gemini + Claude fallback, dual-flow design that catches replies missed by the realtime path.
+- **[HubSpot Onboarding Orchestration](https://github.com/marequest/hubspot-onboarding-orchestration)** — event-driven fan-out across 3 n8n workflows: HubSpot deal close → Drive folder tree → ClickUp template → auto-generated Client Bible doc.
 
-### 🔧 What I work with
+*RAG, LangChain, and LlamaIndex projects coming soon.*
 
-**AI & Automation** — Python · n8n · Make.com · Zapier · OpenAI API · Anthropic (Claude) API · Power Automate
+### 🔧 Stack
 
-**LLM / AI Engineering** — RAG · LangChain · LlamaIndex · vector databases · prompt & eval design
-
-**Platforms & CRMs** — HubSpot · GoHighLevel · ClickUp · Asana · QuickBooks Online · Google Ads · Hunter.io · Apollo.io
-
-**Cloud & Data** — Google Cloud Platform · Azure · Snowflake · Microsoft Power Platform
-
-**Web** — JavaScript · TypeScript · Java · Angular · Django
-
----
+**AI & Automation** Python · n8n · Make · Zapier · OpenAI · Anthropic · Power Automate
+**LLM Engineering** RAG · LangChain · LlamaIndex · vector DBs · prompt & eval design
+**Platforms** HubSpot · GoHighLevel · ClickUp · QuickBooks · Google Ads · Hunter.io · Apollo.io
+**Cloud** GCP · Azure · Snowflake · Power Platform
+**Web** JS/TS · Java · Angular · Django
 
 ### 📫 Get in touch
 
-🌐 💼 [LinkedIn](https://www.linkedin.com/in/markojovicic) · ✉️ markojovicic.rs@gmail.com
+[LinkedIn](https://www.linkedin.com/in/markojovicic) · markojovicic.rs@gmail.com · 📍 Belgrade · Open to full-time and freelance
 
-📍 Belgrade, Serbia · Open to full-time roles and freelance automation/AI projects
-
-> Client workflows are shared as sanitized, reference implementations — no credentials, no client data — focused on architecture and approach.
+> Client workflows are shared as sanitized reference implementations — no credentials, no client data — focused on architecture and approach.
