@@ -1,4 +1,4 @@
-# Hi, I'm Marko 👋
+# Hey, I'm Marko 👋
 
 **AI & Automation Engineer** | Master of Software Engineering (in progress, ETF – University of Belgrade)
 
@@ -11,9 +11,13 @@ Alongside client work, I'm building **production-grade AI engineering projects**
 ### 🔧 What I work with
 
 **AI & Automation** — Python · n8n · Make.com · Zapier · OpenAI API · Anthropic (Claude) API · Power Automate
+
 **LLM / AI Engineering** — RAG · LangChain · LlamaIndex · vector databases · prompt & eval design
+
 **Platforms & CRMs** — HubSpot · GoHighLevel · ClickUp · Asana · QuickBooks Online · Google Ads · Hunter.io · Apollo.io
+
 **Cloud & Data** — Google Cloud Platform · Azure · Snowflake · Microsoft Power Platform
+
 **Web** — JavaScript · TypeScript · Java · Angular · Django
 
 ---
@@ -30,6 +34,6 @@ Pinned below you'll find:
 
 ### 📫 Get in touch
 
-🌐 [markojovicic.rs](https://www.markojovicic.rs/) · 💼 [LinkedIn](https://www.linkedin.com/in/markojovicic) · ✉️ markojovicic.rs@gmail.com
+🌐 💼 [LinkedIn](https://www.linkedin.com/in/markojovicic) · ✉️ markojovicic.rs@gmail.com
 
 📍 Belgrade, Serbia · Open to full-time roles and freelance automation/AI projects
