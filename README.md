@@ -22,18 +22,10 @@ Alongside client work, I'm building **production-grade AI engineering projects**
 
 ---
 
-### 📌 Featured work
-
-Pinned below you'll find:
-- **Automation case studies** — real-world workflows (sanitized) for lead outreach, invoicing, ticketing, and content pipelines, each with the problem, the architecture, and the result.
-- **AI engineering projects** — RAG and agent systems built from scratch, with evaluation, cost, and latency notes.
-
-> Client workflows are shared as sanitized, reference implementations — no credentials, no client data — focused on architecture and approach.
-
----
-
 ### 📫 Get in touch
 
 🌐 💼 [LinkedIn](https://www.linkedin.com/in/markojovicic) · ✉️ markojovicic.rs@gmail.com
 
 📍 Belgrade, Serbia · Open to full-time roles and freelance automation/AI projects
+
+> Client workflows are shared as sanitized, reference implementations — no credentials, no client data — focused on architecture and approach.
